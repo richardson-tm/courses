@@ -1,2 +1,1 @@
-# courses
-# courses
+# GenAI Courses
